@@ -8,7 +8,7 @@ In this homework, you will be implementing a backend service in Express that pro
 
 This homework is heavily related to HW4, but does not require homework 4 to function. Essentially, you will be building the backend that we had provided you within HW4. By the end of this assignment, you should be able to run your Express server and get the same results you would with our provided API server.
 
-**API Documentation:** See [README.md](./README.md) for complete endpoint details, request/response formats, and type definitions.
+**API Documentation:** See [API.md](./API.md) for complete endpoint details, request/response formats, and type definitions.
 
 
 ## Core Requirements
